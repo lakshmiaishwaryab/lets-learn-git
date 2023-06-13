@@ -3,7 +3,7 @@ public class sum {
         int a = 5;
         int b = 6;
         int c = 0;
-        c = a + b;
-        System.out.println(a + b);
+        c = a + b * a;
+        System.out.println(c);
     }
 }
